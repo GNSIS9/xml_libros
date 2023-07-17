@@ -1,0 +1,5 @@
+libro equivale al archivo xml que pide angel, solo que le tenemos ese nombre, cuando lo moficiamos en clase. y no se puede modificar, porque luego no se ejecuta en el programa 
+
+leer es un documento de python y este es el validador del fichero. 
+ 
+y el tercer archivo es el DTD

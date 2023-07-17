@@ -1,0 +1,47 @@
+<libros>
+<libro>
+  <titulo>El gran Gatsby</titulo>
+  <autor>F. Scott Fitzgerald</autor>
+  <anio>1925</anio>
+</libro>
+<libro>
+  <titulo>El Señor de los Anillos</titulo>
+  <autor>J:R Tolkien</autor>
+  <anio>2002</anio>
+</libro>
+<libro>
+  <titulo>Los Pilares de la Tierra</titulo>
+  <autor>Kent follett</autor>
+  <anio>2001</anio>
+</libro>
+<libro>
+  <titulo>El alquimista</titulo>
+  <autor>Paulo Cohello</autor>
+  <anio>1988</anio>
+</libro>
+<libro>
+  <titulo>El Perfume</titulo>
+  <autor>Patrick Suskind</autor>
+  <anio>1985</anio>
+</libro>
+<libro>
+  <titulo>El Nombre de la Rosa</titulo>
+  <autor>Humberto Eco</autor>
+  <anio>1980</anio>
+</libro>
+<libro>
+  <titulo>Los Mares del Sur</titulo>
+  <autor>Manuel Vazquez Montalban</autor>
+  <anio>1979</anio>
+</libro>
+<libro>
+  <titulo>La Isla de las Tormentas </titulo>
+  <autor>Ken Follett</autor>
+  <anio>1978</anio>
+</libro>
+<libro>
+  <titulo>El Pajaro Espino</titulo>
+  <autor>Collen McCullongh</autor>
+  <anio>1977</anio>
+</libro>
+</libros>
